@@ -1,7 +1,5 @@
 // 1
 
-const { endsWith } = require("cypress/types/lodash");
-
 let hamburger = 4;
 let fries = 1;
 if(hamburger >= 4 && fries >= 1){
